@@ -1,0 +1,4 @@
+The Three A's:
+  arrange: set up test data, conditions, environment
+  act: run logic that should be tested/execute function
+  assert: compare execution results with expected results
